@@ -13,5 +13,3 @@ Node.js, Express.js ve MongoDB ile geliştirilmiş olup, kullanıcı kimlik doğ
 - CORS → Çapraz kaynak paylaşımı yönetimi
 - Dotenv → Ortam değişkenleri yönetimi
 - MD5 → Veri şifreleme Nodemailer → E-posta bildirimleri için SMTP entegrasyonu
-
-Demo backend adres: https://depom-api.trial.town
